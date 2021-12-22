@@ -1,7 +1,7 @@
-cx-Oracle==7.0.0
-humanize==0.5.1
-jupyter-sql==0.1.0
-jupyterlab==0.34.5
-keyring==13.0.0
-prettytable==0.7.2
-docker==3.3.0
+cx-Oracle
+humanize
+jupyter-sql
+jupyterlab
+keyring
+prettytable
+docker
